@@ -1,0 +1,17 @@
+My analysis is based on bar charts and boxplots. Below are the inferences drawn from my 
+visualizations:
+>> Number of bookings for bikes was more on holidays, and the same trend increased in 2019 
+as compared to 2018.
+>> Also, the Median demand for bikes is less on holidays as majority of the people tend to 
+stay at home.
+>> During weekdays, Thursday saw the highest demand and over all the demand tends to be 
+higher in the latter part the week.
+>> Clear weather conditions attracted more bookings. Overall, the bookings increased in 
+irrespective of weather condition in 2019.
+>> During the fall season demand of bike was highest, and we can see a major increasing in 
+bookings for every season in 2019.
+>> Most of the bookings were made during May-Oct. Number of bookings tends to decrease 
+towards the end year.
+>> Year 2019 was a good year in terms of business progress as in every segment we see a rise 
+when compared to 2018.
+>> The top-3 contributing features are: “temp”, “winter”, “sept”
